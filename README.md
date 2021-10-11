@@ -1,3 +1,4 @@
 # hacktober
 
-Pranav Parth
+1. Pranav Parth
+2. Bishak Dey
